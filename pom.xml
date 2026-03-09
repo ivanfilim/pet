@@ -23,7 +23,6 @@
 	</developers>
 	<modules>
 		<module>client</module>
-		<module>service</module>
 	</modules>
 	<scm>
 		<connection/>
